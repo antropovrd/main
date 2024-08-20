@@ -1,0 +1,1 @@
+echo "good" > /tmp/jenkins_test_ok
